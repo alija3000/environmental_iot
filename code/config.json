@@ -1,0 +1,7 @@
+{
+  "SSID": "WIFI NAME",
+  "SSID_PASSWORD": "WIFI PASSWORD",
+  "user_mqtt": "MQTT USERNAME",
+  "pass_mqtt": "MQTT PASSWORD",
+  "broker_url": "MQTT HOST IP"
+}
